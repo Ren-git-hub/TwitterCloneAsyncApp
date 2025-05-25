@@ -2,7 +2,6 @@ package com.renish.twittercloneapp.config.handlerconfig;
 
 import com.renish.twittercloneapp.entity.TwitterPost;
 import com.renish.twittercloneapp.repository.TwitterPostRepo;
-import com.renish.twittercloneapp.service.TwitterPostService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Service;
